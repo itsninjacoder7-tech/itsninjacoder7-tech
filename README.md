@@ -9,7 +9,7 @@
 ---
 
 ## About
-- AIML Student at **BIT Mesra**  
+- 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
 - Building machine learning systems  
 - Interested in ML deployment and real-world systems  
 
