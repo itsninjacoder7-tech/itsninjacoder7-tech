@@ -50,7 +50,9 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arnav-Singh-5080&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arnav-Singh-5080&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1" />
+</p>
 
 ---
 
