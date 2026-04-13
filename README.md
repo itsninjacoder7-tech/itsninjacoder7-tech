@@ -57,10 +57,15 @@
 ---
 
 ## Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/arnav-singh-a87847351">
-  <img src="https://img.shields.io/badge/LinkedIn-Arnav%20Singh-blue?style=flat&logo=linkedin" />
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/arnav-singh-a87847351">
+    <img src="https://img.shields.io/badge/LinkedIn-Arnav%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/samartharnav123">
+    <img src="https://img.shields.io/badge/HackerRank-Arnav%20Singh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p> 
 
 ---
