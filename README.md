@@ -50,7 +50,9 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Singh-5080&theme=tokyonight&cache_seconds=1" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Singh-5080&theme=tokyonight&cache_seconds=1" />
+</p>
 
 ---
 
