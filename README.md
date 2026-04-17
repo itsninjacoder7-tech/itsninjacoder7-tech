@@ -9,6 +9,9 @@
 ---
 
 ## About
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
+
 - 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
 - Building machine learning systems  
 - Interested in ML deployment and real-world systems  
