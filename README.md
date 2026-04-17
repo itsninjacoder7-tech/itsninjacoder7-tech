@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=140&section=header&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Arnav Singh</h1>
+<h1 align="center">Arnav Singh</h1>
 
 <h3 align="center">
-AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open Source Contributor
+AIML Undergraduate at BIT Mesra · Building Production-Grade ML Systems · Open Source Contributor
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Real-World+ML+Systems;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Building+Intelligent+Systems;Open+Source+Contributor;Focused+on+Real-World+Impact" />
 </p>
 
 ---
@@ -24,10 +24,10 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 <tr>
 <td width="65%">
 
-* 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)
-* Developing end-to-end machine learning pipelines and predictive systems
-* Focused on deployment, model evaluation, and real-world ML applications
-* Actively contributing to Open Source and collaborative projects
+- 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
+- Building end-to-end machine learning pipelines and analytics systems  
+- Focused on deployment, feature engineering, and real-world ML applications  
+- Active contributor in Open Source programs and collaborative projects  
 
 </td>
 
@@ -43,9 +43,9 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 
 ## Currently Working On
 
-* Improving ML deployment workflows
-* Contributing to Open Source projects
-* Exploring scalable ML system design
+- Scaling ML systems for production environments  
+- Enhancing UI/UX for ML-powered applications  
+- Contributing to open-source ML and data projects  
 
 ---
 
@@ -53,10 +53,11 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### AI Credit Intelligence Engine  
-End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning  
+End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning. Designed for real-world financial scenarios with explainable predictions.
 
 **Tech:** Python, Pandas, Scikit-learn, Streamlit  
 
@@ -69,10 +70,10 @@ End-to-end machine learning system for automated credit risk assessment and inte
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Titanic Survival Simulator  
-ML-based classification system predicting passenger survival using real-time user inputs  
+Interactive machine learning application that predicts survival outcomes using user-defined inputs, demonstrating real-time inference and model interpretability.
 
 **Tech:** Python, Scikit-learn, Streamlit  
 
@@ -84,24 +85,30 @@ ML-based classification system predicting passenger survival using real-time use
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### IPL Match Intelligence Engine  
-Machine learning system for real-time IPL win probability prediction using ball-by-ball match data and dynamic game-state features :contentReference[oaicite:0]{index=0}  
+<td width="50%" valign="top">
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+### CricScope — IPL Match Intelligence Engine  
+Production-grade cricket analytics system that predicts real-time win probabilities using ball-by-ball IPL data and dynamic match-state features. Built with a premium fintech-inspired UI and optimized for interactive simulation.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit  
 
 <a href="https://github.com/Arnav-Singh-5080/IPL-Match-Intelligence-Engine">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://cricscope-live.streamlit.app/">
+  <img src="https://img.shields.io/badge/Explore%20CricScope%20AI-d4af37?style=flat&logo=streamlit&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 </td>
+
 </tr>
 
 </table>
@@ -122,7 +129,6 @@ Machine learning system for real-time IPL win probability prediction using ball-
 
 <b>Visualization:</b>  
 <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 
 <b>Deployment & Tools:</b>  
