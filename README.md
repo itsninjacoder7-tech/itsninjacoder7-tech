@@ -67,39 +67,27 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+<p>
 
-**Languages & Core**  
+<b>Languages & Core:</b>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
-<br><br>
-
-**Machine Learning**  
+<b>Machine Learning:</b>  
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 
-</td>
-
-<td width="50%">
-
-**Visualization**  
+<b>Visualization:</b>  
 <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 
-<br><br>
-
-**Deployment & Tools**  
+<b>Deployment & Tools:</b>  
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
