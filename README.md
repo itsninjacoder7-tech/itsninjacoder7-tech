@@ -59,7 +59,7 @@ AIML Undergraduate at BIT Mesra · Building Production-Grade ML Systems · Open 
 ### AI Credit Intelligence Engine  
 End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning. Designed for real-world financial scenarios with explainable predictions and visual insights.
 
-**Tech:** Python, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn  
+**Tech:** Python, Pandas, Scikit-learn, Streamlit, Matplotlib 
 
 <a href="https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
@@ -75,7 +75,7 @@ End-to-end machine learning system for automated credit risk assessment and inte
 ### Titanic Survival Simulator  
 Interactive machine learning application that predicts survival outcomes using user-defined inputs, enhanced with real-time visual feedback and model insights.
 
-**Tech:** Python, Scikit-learn, Streamlit, Matplotlib, Seaborn  
+**Tech:** Python, Scikit-learn, Streamlit, Pandas, Scipy, Matplotlib, Seaborn  
 
 <a href="https://github.com/Arnav-Singh-5080/Titanic-Survival-Simulator">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
@@ -97,7 +97,7 @@ Production-grade cricket analytics system that predicts real-time win probabilit
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib  
 
-<a href="https://github.com/Arnav-Singh-5080/IPL-Match-Intelligence-Engine">
+<a href="https://github.com/Arnav-Singh-5080/CricScope">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 <a href="https://cricscope-live.streamlit.app/">
