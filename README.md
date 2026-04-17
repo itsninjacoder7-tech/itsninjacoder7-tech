@@ -57,9 +57,9 @@ AIML Undergraduate at BIT Mesra · Building Production-Grade ML Systems · Open 
 <td width="50%" valign="top">
 
 ### AI Credit Intelligence Engine  
-End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning. Designed for real-world financial scenarios with explainable predictions.
+End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning. Designed for real-world financial scenarios with explainable predictions and visual insights.
 
-**Tech:** Python, Pandas, Scikit-learn, Streamlit  
+**Tech:** Python, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn  
 
 <a href="https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
@@ -73,9 +73,9 @@ End-to-end machine learning system for automated credit risk assessment and inte
 <td width="50%" valign="top">
 
 ### Titanic Survival Simulator  
-Interactive machine learning application that predicts survival outcomes using user-defined inputs, demonstrating real-time inference and model interpretability.
+Interactive machine learning application that predicts survival outcomes using user-defined inputs, enhanced with real-time visual feedback and model insights.
 
-**Tech:** Python, Scikit-learn, Streamlit  
+**Tech:** Python, Scikit-learn, Streamlit, Matplotlib, Seaborn  
 
 <a href="https://github.com/Arnav-Singh-5080/Titanic-Survival-Simulator">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
@@ -93,9 +93,9 @@ Interactive machine learning application that predicts survival outcomes using u
 <td width="50%" valign="top">
 
 ### CricScope — IPL Match Intelligence Engine  
-Production-grade cricket analytics system that predicts real-time win probabilities using ball-by-ball IPL data and dynamic match-state features. Built with a premium fintech-inspired UI and optimized for interactive simulation.
+Production-grade cricket analytics system that predicts real-time win probabilities using ball-by-ball IPL data and dynamic match-state features, supported by interactive visualizations and analytics dashboards.
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit  
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib  
 
 <a href="https://github.com/Arnav-Singh-5080/IPL-Match-Intelligence-Engine">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
