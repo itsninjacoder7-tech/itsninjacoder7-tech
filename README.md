@@ -70,19 +70,14 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## Pacman Contribution Graph
 
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph-dark.svg?cache=2000"
-    media="(prefers-color-scheme: dark)">
+### 🌞 Light Mode
 
-<source 
- srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=2000"
- media="(prefers-color-scheme: light)">
+<img src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=3000" />
 
-<img 
- src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=2000"
- alt="Pacman Contribution Graph"> </picture>
+### 🌙 Dark Mode
+
+<img src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph-dark.svg?cache=3000" />
 
 ---
