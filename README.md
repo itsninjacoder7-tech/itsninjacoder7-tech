@@ -70,20 +70,8 @@
 
 ---
 
-## Contribution Graph
+## 🟡 Pacman Contribution Graph
 
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-dark.svg?cache=3">
-
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman.svg?cache=3">
-
-  <!-- Fallback -->
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman.svg?cache=3">
-</picture>
+<img src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph.svg?cache=1" />
 
 ---
