@@ -1,20 +1,21 @@
 <h1 align="center">Hi, I'm Arnav Singh</h1>
 
-<h3 align="center">AIML Student | ML Engineer | Exploring Open Source</h3>
+<h3 align="center">AIML Student | Aspiring ML Engineer | Exploring Open Source</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnav-Singh-5080&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Arnav-Singh-5080&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## About
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160" alt="coding gif"/>
 
 - 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
-- Building machine learning systems  
-- Interested in ML deployment and real-world systems  
+- Building scalable machine learning systems  
+- Interested in ML deployment & real-world applications  
+- Currently exploring Open Source contributions  
 
 ---
 
