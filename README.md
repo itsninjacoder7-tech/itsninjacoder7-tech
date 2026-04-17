@@ -74,11 +74,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/pacman-contribution-graph-dark.svg?cache=1">
+    srcset="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph-dark.svg?cache=2">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/pacman-contribution-graph.svg?cache=1">
+    srcset="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph.svg?cache=2">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/pacman-contribution-graph.svg?cache=1">
+    src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph.svg?cache=2">
 </picture>
 
 ---
