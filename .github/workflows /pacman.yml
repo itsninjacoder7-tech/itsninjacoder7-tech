@@ -13,20 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ Step 1: Checkout repo (important)
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # ✅ Step 2: Generate Pacman graph
       - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: itsninjacoder7-tech
-          outputs: |
-            dist/pacman-contribution-graph.svg?animation=pacman
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
+          github_user_name: arnav-singh-5080
 
-      # ✅ Step 3: Push to output branch
+          # 👇 THIS is the key part
+          outputs: |
+            dist/pacman.svg?palette=github&color_snake=yellow
+            dist/pacman-dark.svg?palette=github-dark&color_snake=yellow
+
       - name: Push pacman graph
         uses: crazy-max/ghaction-github-pages@v3
         with:
