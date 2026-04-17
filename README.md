@@ -10,12 +10,23 @@
 
 ## About
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="coding gif"/>
+<table>
+<tr>
+<td width="65%">
 
 - 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
 - Building scalable machine learning systems  
-- Interested in ML deployment & real-world applications  
-- Currently exploring Open Source contributions  
+- Interested in ML deployment and real-world applications  
+- Currently exploring open source contributions  
+
+</td>
+
+<td width="35%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
