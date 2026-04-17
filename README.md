@@ -73,18 +73,16 @@
 ## 🟡 Pacman Contribution Graph
 
 <picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph-dark.svg?cache=1000">
+  <source 
+    srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph-dark.svg?cache=2000"
+    media="(prefers-color-scheme: dark)">
 
-  <!-- Light mode -->
+<source 
+ srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=2000"
+ media="(prefers-color-scheme: light)">
 
-<source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=1000">
-
-  <!-- Fallback -->
-
-<img alt="pacman contribution graph"
- src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=1000"> </picture>
+<img 
+ src="https://raw.githubusercontent.com/itsninjacoder7-tech/itsninjacoder7-tech/output/dist/pacman-contribution-graph.svg?cache=2000"
+ alt="Pacman Contribution Graph"> </picture>
 
 ---
