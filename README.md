@@ -51,17 +51,60 @@ AIML Undergraduate at BIT Mesra | Building Production-Oriented ML Systems | Open
 
 ## Projects
 
-* **Titanic Survival Simulator**
-  ML-based classification system predicting passenger survival using real-time inputs
-  Tech: Python, Scikit-learn, Streamlit
+<table>
+<tr>
+<td width="50%">
 
-* **Loan Sahayak – Credit Intelligence System**
-  End-to-end ML pipeline for automated credit risk assessment and loan approval decisions
-  Tech: Python, Pandas, Scikit-learn, Streamlit
+### AI Credit Intelligence Engine  
+End-to-end machine learning system for automated credit risk assessment and intelligent loan decisioning  
 
-* **IPL Match Intelligence Engine**
-  Real-time win probability prediction system using dynamic match features
-  Tech: Python, Machine Learning, Streamlit
+**Tech:** Python, Pandas, Scikit-learn, Streamlit  
+
+<a href="https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine">
+  <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://credit-intelligence-ai.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-0e75b6?style=flat&logo=streamlit&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### Titanic Survival Simulator  
+ML-based classification system predicting passenger survival using real-time user inputs  
+
+**Tech:** Python, Scikit-learn, Streamlit  
+
+<a href="https://github.com/Arnav-Singh-5080/Titanic-Survival-Simulator">
+  <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://titanic-survival-simulator.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-0e75b6?style=flat&logo=streamlit&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### IPL Match Intelligence Engine  
+Machine learning system for real-time IPL win probability prediction using ball-by-ball match data and dynamic game-state features :contentReference[oaicite:0]{index=0}  
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+
+<a href="https://github.com/Arnav-Singh-5080/IPL-Match-Intelligence-Engine">
+  <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+</td>
+</tr>
+
+</table>
 
 ---
 
