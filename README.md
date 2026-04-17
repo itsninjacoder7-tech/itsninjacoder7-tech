@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=140&section=header&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi, I'm Arnav Singh</h1>
 
 <h3 align="center">
