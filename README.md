@@ -10,7 +10,7 @@
 
 ## About
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif"/>
 
 - 2nd Year B.Tech (AIML), **BIT Mesra** (2024–2028)  
 - Building scalable machine learning systems  
