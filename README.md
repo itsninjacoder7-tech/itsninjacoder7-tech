@@ -70,8 +70,8 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## Pacman Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph.svg?cache=1" />
+<img src="https://raw.githubusercontent.com/Arnav-Singh-5080/Arnav-Singh-5080/output/pacman-contribution-graph.svg?cache=5" />
 
 ---
